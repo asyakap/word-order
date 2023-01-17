@@ -10,7 +10,7 @@
 
 ## Description
 
-_This webpage returns a list of groceries sorted and capitalised._
+_This webpage returns a sentence backwards without words that are shorted than 3 letters._
 
 ## Setup/Installation Requirements
 
