@@ -1,4 +1,4 @@
-# Word Play
+# Word Order
 
 #### By Asia Kaplanyan 
 
@@ -10,7 +10,7 @@
 
 ## Description
 
-_This webpage returns a sentence backwards without words that are shorted than 3 letters._
+_This website lets users to input a block of text. The application then returns a list of all the unique words and how many times they appeared._
 
 ## Setup/Installation Requirements
 
